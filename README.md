@@ -1,2 +1,2 @@
-# NLP-project---Physics-Today-Survey-Response-Analytics
+# NLP project--Physics Today Survey Response Analytics
 When working at American Institute of Physics, I led a text mining project to analyze  readers' feedback of our flagship magazine, Physics Today to extract the common themes our readers talking about, identify customer preferences and customer demographics. A series of text preprocessing techniques, Hierarchical Clustering with cosine similarity as the distance matrix and latent Dirichlet allocation (LDA) were mainly used in this project.  
